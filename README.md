@@ -1,7 +1,7 @@
 # yetgim--data-analyst-bootcamp--weather-data-analysis
 Pandas ve NumPy kullanarak Türkiye'deki illere ait hava durumu verilerinin temel analizi ve manipülasyonu.
 
-# ⛈️ YEĞTİM Data Analyst Bootcamp - Hava Durumu Veri Analizi
+# ⛈️ YETGİM Data Analyst Bootcamp - Hava Durumu Veri Analizi
 
 Bu proje, Yetgim Power Bi & Tableau bootcamp ödevi kapsamında hazırlanmıştır. Amacı, sunulan 'weather_data.csv' dosyasını kullanarak Pandas ve NumPy kütüphaneleriyle temel veri manipülasyonu, filtreleme, analiz ve raporlama becerilerini göstermektir.
 
